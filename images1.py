@@ -1,3 +1,3 @@
-print("Celebrity Images")
+print("Cricketer Images")
 print("Filmstar Images")
 
