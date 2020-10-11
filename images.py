@@ -6,5 +6,10 @@ if images == "yes":
     print("Download Burger Images")
     print("Download videos for Blogs")
 else:
-    print("Download it form the codebasics dataset")
+   pics = input("Are there any pictures?")
+   if pics == "yes":
+       print("Its good to have pictures included in Blogs")
+       print("Include videos too in the Blogs")
+   if pics == "no":
+       print("Make sure you include pictures in Blogs")
 
