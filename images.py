@@ -10,6 +10,7 @@ else:
    if pics == "yes":
        print("Its good to have pictures included in Blogs")
        print("Include videos too in the Blogs")
+       print("Make YouTube videos")
    if pics == "no":
        print("Make sure you include pictures in Blogs")
 
